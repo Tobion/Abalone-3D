@@ -1,0 +1,14 @@
+material plastic_dull_bl
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.160705 0.160705 0.160705 1.000000
+			specular 0.533333 0.533333 0.533333 1.000000 8.750000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
